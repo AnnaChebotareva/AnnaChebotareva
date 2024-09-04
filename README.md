@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python and the world
 - 💞️ I’m looking for cooperation with creative people
 - 📫 How to reach me: Telegram @annutik55
-- 😄 Pronouns: ...
 - ⚡ Interesting fact: I'm an impressionable person and dreaming and traveling is my whole life
 
 <!---
